@@ -29,6 +29,49 @@ text-align:right;
 text-align:left;
 text-align:center;
 
+padding-left: ;
+        right 
+        top
+        bottom
+
+border-color : ;
+
+border-top-color: ;
+border-right-color: ;
+border-bottom-color: ;
+border-left-color: ;
+
+border-style: ;
+border-top-style: ;
+border-right-style: ;
+border-bottom-style: ;
+border-left-style: ;
+
+icons link:
+<script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
+
+transition: ;
+.__:hover{}
+ex:
+
+.bb{
+    transition:all 1000ms ease 0ms ;
+    background-color: brown;
+    color: white;
+}
+
+.bb:hover{
+    background-color: yellowgreen;
+    color: black;
+
+}
+----- 
+
+border-radius: 10px;
+
+
+
 
 
 
