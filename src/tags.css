@@ -54,7 +54,9 @@ icons link:
 
 transition: ;
 .__:hover{}
-ex:
+
+
+exampil:
 
 .bb{
     transition:all 1000ms ease 0ms ;
@@ -73,6 +75,17 @@ border-radius: 10px;
 
 line line
 style="display:inline-flex ;"
+
+hide the line in tag <a> </a>
+text-decoration:none ;
+for hover 
+text-decoration:underline ;
+you can add color To clarify the link
+color:;
+
+
+for Coordination
+ color:inherit ;
 
 
 
