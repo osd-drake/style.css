@@ -3,7 +3,7 @@ to chang the color in css cod
 
 select the background color
     background-color:color;
-
+background-position
 to chang size of text
     font-size: 
     font-size: large
@@ -46,6 +46,8 @@ border-top-style: ;
 border-right-style: ;
 border-bottom-style: ;
 border-left-style: ;
+
+outline-offset: 15px;
 
 icons link:
 <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
