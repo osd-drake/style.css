@@ -2,8 +2,9 @@ to chang the color in css cod
     color: ;
 
 select the background color
-    background-color:color;
+background-color:color;
 background-position
+
 to chang size of text
     font-size: 
     font-size: large
@@ -18,47 +19,59 @@ with cm
 font-size:cm 
 
 To change the font type
- font-family:  
+   font-family:  
 
-margin-top: ;
-margin-right: ;
-margin-left: ;
-margin-bottom: ;
+to push
+  margin-top: ;
+  margin-right: ;
+  margin-left: ;
+  margin-bottom: ;
 
-text-align:right;
-text-align:left;
-text-align:center;
+to position the text
+  text-align:right;
+  text-align:left;
+  text-align:center; 
+ used to specify uppercase and lowercase letters in a text.
+ text-transform: uppercase;
+ text-transform: lowercase;
+ text-transform: capitalize;
+ 
 
-padding-left: ;
+
+for padding
+  padding-left: ;
         right 
         top
         bottom
 
-border-color : ;
+borders
 
-border-top-color: ;
-border-right-color: ;
-border-bottom-color: ;
-border-left-color: ;
+  border-color : ;
+  border-top-color: ;
+  border-right-color: ;
+  border-bottom-color: ;
+  border-left-color: ;
 
-border-style: ;
-border-top-style: ;
-border-right-style: ;
-border-bottom-style: ;
-border-left-style: ;
+  border-style: ;
+  border-top-style: ;
+  border-right-style: ;
+  border-bottom-style: ;
+  border-left-style: ;
 
-outline-offset: 15px;
+  outline-offset: 15px;
+
+
 
 icons link:
 <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
 <script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
 
+for transition
+  transition: ;
+  .__:hover{}
 
-transition: ;
-.__:hover{}
 
-
-exampil:
+  exampil:
 
 .bb{
     transition:all 1000ms ease 0ms ;
@@ -71,26 +84,28 @@ exampil:
     color: black;
 
 }
------ 
+---
+-- 
 The degree of curvature.
-border-radius: 10px;
+   border-radius: 10px;
 
 line line
 style="display:inline-flex ;"
 
 hide the line in tag <a> </a>
-text-decoration:none ;
+  text-decoration:none ;
+  text-decoration: overline;
+  text-decoration: line-through; 
+  text-decoration: underline;
+
 for hover 
-text-decoration:underline ;
-you can add color To clarify the link
-color:;
+  text-decoration:underline ;
+  you can add color To clarify the link
+  color:;
 
 
 for Coordination
- color:inherit ;
-
-
-
+   color:inherit ;
 
 
 
