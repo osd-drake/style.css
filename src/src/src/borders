@@ -1,0 +1,64 @@
+CSS Border Properties
+
+The CSS border properties allow you to specify the style, width, and color of an element's border.
+border:;
+-------------------------------
+CSS Border Width
+
+The border-width property specifies the width of the four borders.
+
+border-width: ;
+---------
+Specific Side Widths
+
+The border-width property can have from one to four values (for the top border, right border, bottom border, and the left border):
+
+p.two {
+  border-style: solid;
+  border-width: 20px 5px; /* 20px top and bottom, 5px on the sides */
+}
+------------------------------------
+CSS Border Color
+
+The border-color property is used to set the color of the four borders.
+
+border-color:;
+---------------
+Specific Side Colors
+
+The border-color property can have from one to four values (for the top border, right border, bottom border, and the left border). 
+p.one {
+  border-style: solid;
+  border-color: red green blue yellow; /* red top, green right, blue bottom and yellow left */
+}
+----------------------------------------
+CSS Border - Individual Sides
+Example
+p {
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+} 
+--------
+So, here is how it works:
+
+If the border-style property has four values:
+--------------------------------------------
+
+CSS Rounded Borders
+
+border-radius: ;
+
+    border-style: dotted solid double dashed;
+        top border is dotted
+        right border is solid
+        bottom border is double
+        left border is dashed
+
+
+
+
+
+
+
